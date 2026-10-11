@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+outputs/*
+!outputs/.gitkeep
+user_data/
+*.joblib
+*.log
+.DS_Store
+Thumbs.db
+.pytest_cache/

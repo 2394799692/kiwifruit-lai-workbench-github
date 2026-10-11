@@ -1,0 +1,16 @@
+{
+  "demo_features": "examples/example_features.csv",
+  "demo_prediction": "examples/example_prediction.csv",
+  "demo_samples": "examples/sample_locations.csv",
+  "demo_imagery": "examples/imagery_config.csv",
+  "demo_raster": "examples/lai_demo.tif",
+  "demo_figure": "examples/lai_demo.png",
+  "sample_crs": "EPSG:32649",
+  "model_defaults": {"n_estimators": 100, "learning_rate": 0.05, "max_depth": 3},
+  "roi_defaults": {
+    "q": 70, "p": 90, "exploration_radius_m": 2.0,
+    "r_min_m": 0.2, "r_max_m": 2.6, "fallback_radius_m": 1.5,
+    "alpha": 1.0, "min_valid_pixels": 30,
+    "morphology_close_radius": 2, "morphology_open_radius": 1
+  }
+}

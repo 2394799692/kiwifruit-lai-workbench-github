@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "Reference code for dynamic ROI-constrained UAV multispectral estimation of single-plant LAI in trellis-trained kiwifruit"
+type: software
+authors:
+  - family-names: Li
+    given-names: Wenjie
+    email: 17395844880@163.com
+  - family-names: Liu
+    given-names: Hongen
+  - family-names: Ouyang
+    given-names: Linghuan
+  - family-names: Chen
+    given-names: Qian
+  - family-names: Lv
+    given-names: Tianqi
+  - family-names: Li
+    given-names: Jiali
+  - family-names: Lin
+    given-names: Xintao
+  - family-names: Yao
+    given-names: Chen
+  - family-names: Zheng
+    given-names: Yongqiang
+  - family-names: Qian
+    given-names: Jianping
+repository-code: "https://github.com/2394799692/kiwifruit_lai_public_code"
+preferred-citation:
+  type: article
+  title: "Dynamic ROI-constrained UAV multispectral estimation of single-plant LAI in trellis-trained kiwifruit"
+  authors:
+    - family-names: Li
+      given-names: Wenjie
+    - family-names: Liu
+      given-names: Hongen
+    - family-names: Ouyang
+      given-names: Linghuan
+    - family-names: Chen
+      given-names: Qian
+    - family-names: Lv
+      given-names: Tianqi
+    - family-names: Li
+      given-names: Jiali
+    - family-names: Lin
+      given-names: Xintao
+    - family-names: Yao
+      given-names: Chen
+    - family-names: Zheng
+      given-names: Yongqiang
+    - family-names: Qian
+      given-names: Jianping
+  journal: "Computers and Electronics in Agriculture"
